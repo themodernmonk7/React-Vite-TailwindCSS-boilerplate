@@ -1,7 +1,10 @@
 function App() {
   return (
     <>
-    <h2>This is the boilerplate of the Vite + React + TailwindCSS</h2>
+      <h2>
+        This is the boilerplate of the Vite + React + TailwindCSS (Update
+        Version){" "}
+      </h2>
     </>
   )
 }
